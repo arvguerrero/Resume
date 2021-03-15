@@ -1,0 +1,65 @@
+body{
+	background-color: #FDF5E6;
+}
+
+a{
+	color: #8080ff;
+}
+
+a:hover{
+	color: #be96ff;
+}
+
+h1{
+	text-align: center;
+	background-color: lavender;
+	font-size: 40px;
+}
+
+h3{
+	text-align: center;
+	font-family: "Courier new", Times, serif;
+}
+
+li{
+	font-family: "Century Gothic", Times, serif;
+}
+
+p{
+	text-align: center;
+	font-family: "Century Gothic", Times, serif;
+}
+
+.nav{
+	background-color: Seashell;
+	padding: 8px;
+}
+
+.header{
+	background-color: FloralWhite;
+}
+.skills{
+	background-image: url("img/laptop.jpg");
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+  	text-align: center;
+  	padding: 100px;
+
+}
+
+
+.footer{
+	background-color: Seashell;
+	padding: 190px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  opacity: 0.9;
+  vertical-align: top;
+}
+
