@@ -1,5 +1,5 @@
 body{
-	background-color: #FDF5E6;
+	background-color: Seashell;
 }
 
 a{
@@ -12,7 +12,7 @@ a:hover{
 
 h1{
 	text-align: center;
-	background-color: lavender;
+	/* background-color: lavender; */
 	font-size: 40px;
 }
 
@@ -36,8 +36,9 @@ p{
 }
 
 .header{
-	background-color: FloralWhite;
+	background-color: #F8F9FA;
 }
+
 .skills{
 	background-image: url("img/laptop.jpg");
 	background-repeat: no-repeat;
@@ -50,7 +51,7 @@ p{
 
 
 .footer{
-	background-color: Seashell;
+	background-color: #F8F9FA;
 	padding: 190px;
 }
 
